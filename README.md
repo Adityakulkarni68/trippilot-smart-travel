@@ -1,8 +1,5 @@
 # 🗺️ TripPilot — Smart Travel Planning & Recommendation System
 
-> **B.Tech Major Project | Dept. of CSE (AI & ML) | GRIET, Hyderabad**  
-> Mohammed Amer · Aditya Manoj Kulkarni · Budda Sathwik  
-> Guide: Ms. P. Nethrasri
 
 An AI-powered two-phase travel planning platform that generates a rough itinerary at booking time, then dynamically optimises each day's plan the night before travel using three autonomous agents and a numpy-based ML ranker.
 
